@@ -8,3 +8,5 @@ pip3 install PyQt5-Qt5
 pip3 install PyQt5-sip
 pip3 install PyQtWebEngine
 ```
+2.how to start it
+python3 main.py
